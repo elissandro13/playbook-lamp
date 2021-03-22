@@ -1,0 +1,7 @@
+---
+mysql_root_password: "mysql"
+app_user: "ubuntu"
+http_host: "tcc_cefet"
+http_conf: "your_domain.conf"
+http_port: "80"
+disable_default: true
